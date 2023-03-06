@@ -1,3 +1,9 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
 :root {
 /* colors */
 --user: hsl(246, 80%, 60%);
@@ -13,10 +19,29 @@
 --neutral4: hsl(236, 100%, 87%);
 }
 
-
 body {
     font-family: 'Rubik', sans-serif;
     background-color: var(--neutral1);
     color: white;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    padding: 1rem;
 }
 
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    gap: clamp(1rem, 3vw, 2rem); 
+}
+
+.card {
+    border-radius: 1rem;
+    background-color: var(--neutral2);
+}
+
+.card-avatar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
