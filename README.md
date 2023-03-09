@@ -20,19 +20,22 @@ This is a front-end coding challenge from <a href="https://www.frontendmentor.io
 
 <p>Desktop design preview</p>
 
-<img src="https://github.com/vzapola/3-column-preview-card/blob/master/assets/img/Desktop_preview.png?raw=true">
+<img src="https://github.com/vzapola/Time-Tracking-Dashboard/blob/main/design/Desktop.png?raw=true">
 <br><br>
 
 <p>Mobile design preview</p>
 
-<img src="https://github.com/vzapola/3-column-preview-card/blob/master/assets/img/Mobile_preview.png?raw=true">
+<img src="https://github.com/vzapola/Time-Tracking-Dashboard/blob/main/design/Mobile.png?raw=true">
 <br><br>
 
+<p>Tablet design preview</p>
 
+<img src="https://github.com/vzapola/Time-Tracking-Dashboard/blob/main/design/Tablet.png?raw=true">
+<br><br>
 
 ## Links
 
-- [Click Here](https://vzapola.github.io/3-column-preview-card/) to check out the result
+- [Click Here](https://vzapola.github.io/Time-Tracking-Dashboard/) to check out the result
 <br><br>
 
 ## Built with
@@ -46,7 +49,9 @@ This is a front-end coding challenge from <a href="https://www.frontendmentor.io
 
 ## What I learned
 
-In this project I was able to put into practice the concecept of Flexbox and Media Queries on CSS3.  <br><br>
+In this project I was able to put into practice the concecept of Flexbox and Media Queries on CSS3.
+
+My next goal is to start studying JavaScript and include the correct functionality for the buttons on each card in the project, changing the time frequency depending on the choice. <br><br>
 
 
 ## Author
