@@ -119,32 +119,32 @@ body {
 
 .card-work {
     background-color: var(--orange);
-    background-image: url(/images/icon-work.svg);
+    background-image: url(./images/icon-work.svg);
 }
 
 .card-play {
     background-color: var(--blue);
-    background-image: url(/images/icon-play.svg);
+    background-image: url(./images/icon-play.svg);
 }
 
 .card-study {
     background-color: var(--pink);
-    background-image: url(/images/icon-study.svg);
+    background-image: url(./images/icon-study.svg);
 }
 
 .card-exercise {
     background-color: var(--green);
-    background-image: url(/images/icon-exercise.svg);
+    background-image: url(./images/icon-exercise.svg);
 }
 
 .card-social {
     background-color: var(--purple);
-    background-image: url(/images/icon-social.svg);
+    background-image: url(./images/icon-social.svg);
 }
 
 .card-selfcare {
     background-color: var(--yellow);
-    background-image: url(/images/icon-self-care.svg);
+    background-image: url(./images/icon-self-care.svg);
 }
 
     .box {
